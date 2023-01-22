@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\image_open2\image_open2\bin\Debug\image_open2.exe
+C:\Users\PC\source\repos\image_open2\image_open2\bin\Debug\image_open2.pdb
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.exe
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.pdb
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.Properties.Resources.resources
+C:\Users\PC\source\repos\image_open2\image_open2\obj\Debug\image_open2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\bin\Debug\image_open2.exe
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\bin\Debug\image_open2.pdb
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.Properties.Resources.resources
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.exe
+C:\Users\PC\source\repos\extract_embedded_imge2Local_disk\image_open2\obj\Debug\image_open2.pdb
